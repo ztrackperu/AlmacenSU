@@ -2,7 +2,7 @@
 
 <div class="app-title">
     <div>
-        <h1><i class="fa fa-dashboard"></i> Ingreso al inventario </h1>
+        <h1><i class="fa fa-dashboard"></i> Ingreso al inventario Segundo uso 2025</h1>
     </div>
 </div>
 <!--<button class="btn btn-primary mb-2" onclick="frmLibros()"><i class="fa fa-plus"></i></button>!-->
